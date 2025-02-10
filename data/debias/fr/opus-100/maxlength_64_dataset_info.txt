@@ -1,0 +1,5 @@
+Total sentence pairs: 67448
+Language pair: English - fr
+Dataset: opus-100
+Filtered sentence pairs saved to: mllm/Language-Specific-Neurons-refine-demo/data/debias/fr/opus-100/maxlength_64_dataset_info.txt
+Generated negative pairs using sentence shifting.

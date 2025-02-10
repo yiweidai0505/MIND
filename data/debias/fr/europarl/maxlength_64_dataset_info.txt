@@ -1,0 +1,5 @@
+Total sentence pairs: 65445
+Language pair: English - fr
+Dataset: europarl
+Filtered sentence pairs saved to: mllm/Language-Specific-Neurons-refine-demo/data/debias/fr/europarl/maxlength_64_dataset_info.txt
+Generated negative pairs using sentence shifting.
